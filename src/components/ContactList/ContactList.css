@@ -1,0 +1,12 @@
+/* CONTACT LIST STYLES */
+
+@media (min-width: 768px){
+    .contact-list{
+        width: 100% !important;
+        margin-top: 40px;
+    }
+
+    .contact-list>div:nth-child(1){
+        width: 100% !important
+    }
+}

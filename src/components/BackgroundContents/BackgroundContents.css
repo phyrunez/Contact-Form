@@ -1,0 +1,58 @@
+/* BACKGROUND CONTENT STYLES */
+.background-content-container{
+	position: absolute;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
+}
+.circle{
+	border-radius: 50%;
+	background: #D2F2E9;
+}
+.circle-xxl{
+	width: 200px;
+	height: 200px;
+	bottom: -50px;
+	left: 100px;
+	position: absolute;
+}
+
+.circle-xl{
+	width: 100px;
+	height: 100px;
+	top: 100px;
+	right: 30px;
+	position: absolute;
+}
+
+.circle-l{
+	width: 75px;
+	height: 75px;
+	top: 200px;
+	left: 50px;
+	position: absolute;
+}
+
+.circle-m{
+	width: 55px;
+	height: 55px;
+	top: 350px;
+	left: 30px;
+	position: absolute;
+}
+
+.circle-s{
+	width: 40px;
+	height: 40px;
+	top: 450px;
+	left: 20px;
+	position: absolute;
+}
+
+.circle-xs{
+	width: 30px;
+	height: 30px;
+	top: 550px;
+	left: 20px;
+	position: absolute;
+}
